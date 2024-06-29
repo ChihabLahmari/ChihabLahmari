@@ -1,31 +1,49 @@
-<h1 align="center">Hi 👋, I'm Chihab Dev</h1>
-<h3 align="center">Mobile application developer</h3>
+ <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
 
+###
 
+<p align="left">My name is Chihab, and I'm a Flutter developer. 🚀 I hold a license degree in Computer Science 📚, and I have a strong passion for Dart and Flutter. 💙 Currently, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram 📱👀.</p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+###
 
+###
 
+<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
 
-- 🔭 I’m currently working on **developing my skills.**
+###
 
-- 🌱 I’m currently learning **Clean Architecture, Architecture patterns, and more.**
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,nodejs,postman,figma,vscode,androidstudio,git,github&theme=dark" />
+  </a>
+ 
+</div>
 
-- 💬 Ask me about **Flutter**
+###
 
-<!--  <h3 align="left">Connect with me:</h3>  -->
-<!-- <p align="left"> -->
-<!-- <a href="https://www.linkedin.com/in/lahmarichihab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chihab dev" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/chihab.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chihab.dev" height="30" width="40" /></a> -->
-<!-- </p> -->
+<h2 align="left" style="color:white;" >🌐 My socials</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+###
 
+<div align="left">
+  <a href="https://www.instagram.com/chihab.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="www.linkedin.com/in/lahmarichihab" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://wa.me/+213656933390" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
+<h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
 
-
-
-
-
-
+<div align="left">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=Chihab-Dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+ 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chihab-Dev&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+ 
+ 
+</div>
