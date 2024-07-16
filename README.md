@@ -4,6 +4,8 @@
 
 <p align="left">My name is Chihab, and I'm a Flutter developer. 🚀 I hold a license degree in Computer Science 📚, and I have a strong passion for Dart and Flutter. 💙 Currently, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram 📱👀.</p>
 
+- 📫 How to reach me **lahmarichihabelhak.pro@gmail.com**
+
 ###
 
 ###
