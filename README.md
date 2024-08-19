@@ -16,7 +16,7 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,npm,js,ts,mongodb,postman,figma,firebase,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,npm,js,ts,mongodb,postman,figma,firebase,vscode,androidstudio,git,github,docker&theme=dark" />
   </a>
  
 </div>
