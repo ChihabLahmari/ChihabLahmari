@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is Chihab, and I'm a Flutter developer. 🚀 I hold a license degree in Computer Science 📚, and I have a strong passion for Dart and Flutter. 💙 Currently, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram 📱👀.</p>
+<p align="left">👋 Hi, I’m Chihab Lahmari.
+👀 I’m passionate about Mobile App Development and always eager to learn new things and have 2 years of experience specializing in Flutter development.
+🎓 I hold a Bachelor’s degree in Computer Science.
+
+As a Mobile App Developer, I collaborate with startups to bring their mobile app ideas to life. I focus on creating high-quality, cross-platform applications using Flutter, ensuring high performance on both Android and iOS , I am dedicated to staying updated with the latest tech trends to deliver exceptional results for clients.</p>
 
 - 📫 How to reach me **lahmarichihabelhak.pro@gmail.com**
 
