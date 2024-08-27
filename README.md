@@ -47,10 +47,10 @@ As a Mobile App Developer, I collaborate with startups to bring their mobile app
 
 <div align="left">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=Chihab-Dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChihabLahmari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
  
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chihab-Dev&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChihabLahmari&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
    
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihab-Dev&theme=tokyonight&layout=compact" height="150" alt="stats graph"  /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChihabLahmari&theme=tokyonight&layout=compact" height="150" alt="stats graph"  /> 
  
 </div>
