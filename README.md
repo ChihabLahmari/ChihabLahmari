@@ -47,7 +47,7 @@ As a Mobile App Developer, I collaborate with startups to bring their mobile app
 
 <div align="left">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=ChihabLahmari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChihabLahmari&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" height="150" alt="stats graph"  />
  
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChihabLahmari&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
    
