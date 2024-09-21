@@ -11,6 +11,10 @@ As a Mobile App Developer, I collaborate with startups to bring their mobile app
 - 📫 How to reach me **lahmarichihabelhak.pro@gmail.com**
 
 ###
+## 📄 My CV
+
+For more details about my professional background and projects, you can view my CV [here](https://drive.google.com/file/d/11gzRPUq4ZKy16jxRxpl66G8RHNrIwzaL/view?usp=sharing).
+
 
 ###
 
@@ -42,6 +46,8 @@ As a Mobile App Developer, I collaborate with startups to bring their mobile app
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
+
+
 
 <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
 
